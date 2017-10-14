@@ -2,7 +2,7 @@
 
 # Aspasia - historical languages and literatures in translingual digital space
 
-Additional material on the application for the HERA Joint Research Programme "Public Spaces: Culture and Integration in Europe" (October 2017)
+Additional documentation of the application for the HERA Joint Research Programme "Public Spaces: Culture and Integration in Europe" (October 2017)
 
 ## A list of Open Source contributions of PL and PI partners
 
